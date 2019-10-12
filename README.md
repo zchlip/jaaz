@@ -8,7 +8,8 @@ People Effected:
 
 How this is usually done:
 - Emails containing misleading links.
-- Emails that contain files that are hiding a executable that is run on open. 
+- Emails that contain files that are hiding a executable that is run on open.
+- Spoofed email addresses that trick people into thinking it is from a valid source.
 
 What can be done about it:
 - Browser Extension that can filter links and verify them against a link checker.
